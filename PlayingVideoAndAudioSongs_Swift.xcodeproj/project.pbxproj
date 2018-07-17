@@ -57,7 +57,7 @@
 		8431762D20FCA306008F839D /* batterylow.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = batterylow.aiff; sourceTree = "<group>"; };
 		8431762E20FCA306008F839D /* acconoff.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = acconoff.aiff; sourceTree = "<group>"; };
 		8431762F20FCA306008F839D /* sosalaram.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = sosalaram.aiff; sourceTree = "<group>"; };
-		8431763420FCA346008F839D /* PurpleRain.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = PurpleRain.m4a; sourceTree = "<group>"; };
+		8431763420FCA346008F839D /* PurpleRain.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = PurpleRain.aiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,7 +143,7 @@
 				8431762D20FCA306008F839D /* batterylow.aiff */,
 				8431762C20FCA305008F839D /* fuelalaram.aiff */,
 				8431762F20FCA306008F839D /* sosalaram.aiff */,
-				8431763420FCA346008F839D /* PurpleRain.m4a */,
+				8431763420FCA346008F839D /* PurpleRain.aiff */,
 			);
 			path = MusicFiles;
 			sourceTree = "<group>";

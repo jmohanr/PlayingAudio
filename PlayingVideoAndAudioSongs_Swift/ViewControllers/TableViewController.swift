@@ -14,7 +14,7 @@ var listOfSongs = [String]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-     listOfSongs = ["acconoff","batterylow","fuelalaram","sosalaram"]
+     listOfSongs = ["acconoff","batterylow","fuelalaram","sosalaram","PurpleRain"]
         
     }
 
